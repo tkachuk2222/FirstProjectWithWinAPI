@@ -1,0 +1,4 @@
+﻿  trafficLights.cpp
+c:\users\dell\documents\visual studio 2015\projects\trafficlights\trafficlights\trafficlights.cpp(102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  trafficLights.vcxproj -> c:\users\dell\documents\visual studio 2015\Projects\trafficLights\Debug\trafficLights.exe
+  trafficLights.vcxproj -> c:\users\dell\documents\visual studio 2015\Projects\trafficLights\Debug\trafficLights.pdb (Full PDB)
